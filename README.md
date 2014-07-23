@@ -6,6 +6,7 @@ A simple blogging website framework.
 * single tap to add stuff
 * double tap to edit/format stuff
 * tap and drag to change placement of things
+* long press to share
 
 ####things you can add
 * header (click on top of page)
